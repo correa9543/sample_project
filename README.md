@@ -9,3 +9,5 @@ This is some text just to make a randome change so we can test out git status co
 Now we are trying to commit
 
 sdfwefwef
+
+sdfsd
