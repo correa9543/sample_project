@@ -11,4 +11,4 @@ Now we are trying to commit
 sdfwefwef
 
 sdfsd
-second commit before pusshing
+second commit before pushing
